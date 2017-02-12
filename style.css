@@ -1,0 +1,8 @@
+body{
+
+  font-family: digital;
+}
+@font-face {
+    font-family: "digital";
+    src: url("font/DS-DIGIT.TTF");
+}
